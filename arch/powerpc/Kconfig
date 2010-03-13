@@ -1211,6 +1211,8 @@ source "net/Kconfig"
 
 source "drivers/Kconfig"
 
+source "ubuntu/Kconfig"
+
 source "fs/Kconfig"
 
 source "lib/Kconfig"
