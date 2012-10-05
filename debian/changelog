@@ -1,3 +1,1011 @@
+linux-signed (3.18.0-1.1) vivid; urgency=medium
+
+  * Version 3.18.0-1.1
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 29 Oct 2014 09:55:29 -0600
+
+linux-signed (3.16.0-23.30) vivid; urgency=medium
+
+  * Version 3.16.0-23.30
+
+ -- Andy Whitcroft <apw@canonical.com>  Thu, 16 Oct 2014 14:34:33 +0200
+
+linux-signed (3.16.0-22.29) utopic; urgency=medium
+
+  * Version 3.16.0-22.29
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 09 Oct 2014 13:49:58 +0100
+
+linux-signed (3.16.0-21.28) utopic; urgency=medium
+
+  * Version 3.16.0-21.28
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 06 Oct 2014 16:45:51 +0100
+
+linux-signed (3.16.0-20.27) utopic; urgency=medium
+
+  * Version 3.16.0-20.27
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 01 Oct 2014 10:58:08 -0600
+
+linux-signed (3.16.0-19.26) utopic; urgency=medium
+
+  * Version 3.16.0-19.26
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 30 Sep 2014 07:38:25 -0600
+
+linux-signed (3.16.0-18.25) utopic; urgency=medium
+
+  * Version 3.16.0-18.25
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 24 Sep 2014 19:51:50 -0600
+
+linux-signed (3.16.0-17.23) utopic; urgency=medium
+
+  * Version 3.16.0-17.23
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 19 Sep 2014 10:49:39 -0600
+
+linux-signed (3.16.0-16.22) utopic; urgency=medium
+
+  * Version 3.16.0-16.22
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 17 Sep 2014 12:40:27 -0600
+
+linux-signed (3.16.0-15.22) utopic; urgency=medium
+
+  * Version 3.16.0-15.22
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 17 Sep 2014 09:50:05 -0600
+
+linux-signed (3.16.0-15.21) utopic; urgency=medium
+
+  * Version 3.16.0-15.21
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 12 Sep 2014 12:53:30 -0600
+
+linux-signed (3.16.0-14.20) utopic; urgency=medium
+
+  * Version 3.16.0-14.20
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Sat, 06 Sep 2014 16:41:07 -0700
+
+linux-signed (3.16.0-13.19) utopic; urgency=medium
+
+  * Version 3.16.0-13.19
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 04 Sep 2014 15:48:57 -0700
+
+linux-signed (3.16.0-12.18) utopic; urgency=medium
+
+  * Version 3.16.0-12.18
+
+ -- Andy Whitcroft <apw@canonical.com>  Mon, 01 Sep 2014 14:41:06 +0100
+
+linux-signed (3.16.0-12.17) utopic; urgency=medium
+
+  * Version 3.16.0-12.17
+
+ -- Andy Whitcroft <apw@canonical.com>  Fri, 29 Aug 2014 12:59:19 +0100
+
+linux-signed (3.16.0-11.16) utopic; urgency=medium
+
+  * Version 3.16.0-11.16
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 25 Aug 2014 13:56:29 -0600
+
+linux-signed (3.16.0-10.15) utopic; urgency=medium
+
+  * Version 3.16.0-10.15
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 21 Aug 2014 10:18:19 -0600
+
+linux-signed (3.16.0-9.14) utopic; urgency=medium
+
+  * Version 3.16.0-9.14
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 15 Aug 2014 09:19:11 -0600
+
+linux-signed (3.16.0-8.13) utopic; urgency=medium
+
+  * Version 3.16.0-8.13
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 13 Aug 2014 11:08:50 -0600
+
+linux-signed (3.16.0-7.12) utopic; urgency=medium
+
+  * Version 3.16.0-7.12
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Sat, 09 Aug 2014 07:45:12 -0600
+
+linux-signed (3.16.0-6.11) utopic; urgency=medium
+
+  * Version 3.16.0-6.11
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Sun, 27 Jul 2014 20:02:12 -0600
+
+linux-signed (3.16.0-5.10) utopic; urgency=medium
+
+  * Version 3.16.0-5.10
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 21 Jul 2014 11:00:20 -0600
+
+linux-signed (3.16.0-4.9) utopic; urgency=medium
+
+  * Version 3.16.0-4.9
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 14 Jul 2014 07:53:45 -0400
+
+linux-signed (3.16.0-3.8) utopic; urgency=medium
+
+  * Version 3.16.0-3.8
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 10 Jul 2014 10:32:57 +0100
+
+linux-signed (3.16.0-2.5) utopic; urgency=medium
+
+  * Version 3.16.0-2.5
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 08 Jul 2014 16:17:51 +0100
+
+linux-signed (3.16.0-2.4) utopic; urgency=medium
+
+  * Version 3.16.0-2.4
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 07 Jul 2014 16:36:52 +0100
+
+linux-signed (3.16.0-1.3) utopic; urgency=medium
+
+  * Version 3.16.0-1.3
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 30 Jun 2014 13:40:10 -0600
+
+linux-signed (3.16.0-0.1) utopic; urgency=medium
+
+  * Version 3.16.0-0.1
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 23 Jun 2014 12:19:43 -0600
+
+linux-signed (3.15.0-6.11) utopic; urgency=medium
+
+  * Version 3.15.0-6.11
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 11 Jun 2014 18:38:41 -0600
+
+linux-signed (3.15.0-5.10) utopic; urgency=medium
+
+  * Version 3.15.0-5.10
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 02 Jun 2014 10:37:44 -0600
+
+linux-signed (3.15.0-4.9) utopic; urgency=medium
+
+  * Version 3.15.0-4.9
+
+ -- Andy Whitcroft <apw@canonical.com>  Thu, 29 May 2014 21:18:39 +0100
+
+linux-signed (3.15.0-4.8) utopic; urgency=medium
+
+  * Version 3.15.0-4.8
+
+ -- Andy Whitcroft <apw@canonical.com>  Wed, 28 May 2014 14:34:44 +0100
+
+linux-signed (3.15.0-3.7) utopic; urgency=medium
+
+  * Version 3.15.0-3.7
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 26 May 2014 09:47:01 +0200
+
+linux-signed (3.15.0-2.6) utopic; urgency=medium
+
+  * Version 3.15.0-2.6
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 22 May 2014 09:17:41 -0700
+
+linux-signed (3.15.0-1.5) utopic; urgency=medium
+
+  * Version 3.15.0-1.5
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 19 May 2014 22:19:03 +0000
+
+linux-signed (3.15.0-1.4) utopic; urgency=medium
+
+  * Version 3.15.0-1.4
+
+ -- Andy Whitcroft <apw@canonical.com>  Sun, 18 May 2014 20:25:03 +0100
+
+linux-signed (3.15.0-1.3) utopic; urgency=medium
+
+  * Version 3.15.0-1.3
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 16 May 2014 16:25:27 +0000
+
+linux-signed (3.13.0-24.46) utopic; urgency=medium
+
+  * Version 3.13.0-24.46
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 09 Apr 2014 18:21:51 +0000
+
+linux-signed (3.13.0-23.45) trusty; urgency=medium
+
+  * Version 3.13.0-23.45
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 03 Apr 2014 18:31:20 +0000
+
+linux-signed (3.13.0-22.44) trusty; urgency=medium
+
+  * Version 3.13.0-22.44
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 02 Apr 2014 19:44:29 +0000
+
+linux-signed (3.13.0-21.43) trusty; urgency=medium
+
+  * Version 3.13.0-21.43
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 31 Mar 2014 22:07:58 +0000
+
+linux-signed (3.13.0-20.42) trusty; urgency=medium
+
+  * Version 3.13.0-20.42
+
+ -- Andy Whitcroft <apw@canonical.com>  Fri, 28 Mar 2014 09:57:55 +0000
+
+linux-signed (3.13.0-20.41) trusty; urgency=medium
+
+  * Version 3.13.0-20.41
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 27 Mar 2014 19:19:14 -0600
+
+linux-signed (3.13.0-19.40) trusty; urgency=medium
+
+  * Version 3.13.0-19.40
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 24 Mar 2014 02:32:12 +0000
+
+linux-signed (3.13.0-18.38) trusty; urgency=medium
+
+  * Version 3.13.0-18.38
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 17 Mar 2014 20:46:00 +0000
+
+linux-signed (3.13.0-17.37) trusty; urgency=medium
+
+  * Version 3.13.0-17.37
+
+ -- Andy Whitcroft <apw@canonical.com>  Mon, 10 Mar 2014 21:48:17 +0000
+
+linux-signed (3.13.0-16.36) trusty; urgency=medium
+
+  * Version 3.13.0-16.36
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 04 Mar 2014 22:59:36 +0000
+
+linux-signed (3.13.0-15.35) trusty; urgency=medium
+
+  * Version 3.13.0-15.35
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 03 Mar 2014 15:52:44 +0000
+
+linux-signed (3.13.0-14.34) trusty; urgency=medium
+
+  * Version 3.13.0-14.34
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 27 Feb 2014 22:32:07 +0000
+
+linux-signed (3.13.0-13.33) trusty; urgency=medium
+
+  * Version 3.13.0-13.33
+
+ -- Andy Whitcroft <apw@canonical.com>  Tue, 25 Feb 2014 18:16:51 +0000
+
+linux-signed (3.13.0-12.32) trusty; urgency=medium
+
+  * Version 3.13.0-12.32
+
+ -- Andy Whitcroft <apw@canonical.com>  Fri, 21 Feb 2014 17:42:27 +0000
+
+linux-signed (3.13.0-11.31) trusty; urgency=medium
+
+  * Version 3.13.0-11.31
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 19 Feb 2014 12:54:18 -0700
+
+linux-signed (3.13.0-10.30) trusty; urgency=medium
+
+  * Version 3.13.0-10.30
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 18 Feb 2014 23:03:04 +0000
+
+linux-signed (3.13.0-9.29) trusty; urgency=medium
+
+  * Version 3.13.0-9.29
+
+ -- Andy Whitcroft <apw@canonical.com>  Fri, 14 Feb 2014 15:42:28 +0000
+
+linux-signed (3.13.0-8.28) trusty; urgency=medium
+
+  * Version 3.13.0-8.28
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 11 Feb 2014 17:48:42 +0000
+
+linux-signed (3.13.0-8.27) trusty; urgency=medium
+
+  * Version 3.13.0-8.27
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 07 Feb 2014 01:57:53 +0000
+
+linux-signed (3.13.0-7.26) trusty; urgency=medium
+
+  * Version 3.13.0-7.26
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 05 Feb 2014 21:24:01 +0000
+
+linux-signed (3.13.0-7.25) trusty; urgency=medium
+
+  * Version 3.13.0-7.25
+
+ -- Andy Whitcroft <apw@canonical.com>  Tue, 04 Feb 2014 11:26:55 +0000
+
+linux-signed (3.13.0-7.24) trusty; urgency=medium
+
+  * Version 3.13.0-7.24
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 03 Feb 2014 21:16:14 +0000
+
+linux-signed (3.13.0-6.23) trusty; urgency=medium
+
+  * Version 3.13.0-6.23
+
+ -- Andy Whitcroft <apw@canonical.com>  Fri, 31 Jan 2014 13:28:40 +0000
+
+linux-signed (3.13.0-5.20) trusty; urgency=medium
+
+  * Version 3.13.0-5.20
+
+ -- Andy Whitcroft <apw@canonical.com>  Mon, 20 Jan 2014 18:46:38 +0000
+
+linux-signed (3.13.0-4.19) trusty; urgency=medium
+
+  * Version 3.13.0-4.19
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 16 Jan 2014 18:04:56 +0000
+
+linux-signed (3.13.0-3.18) trusty; urgency=medium
+
+  * Version 3.13.0-3.18
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 13 Jan 2014 19:05:56 +0000
+
+linux-signed (3.13.0-2.17) trusty; urgency=low
+
+  * Version 3.13.0-2.17
+
+ -- Andy Whitcroft <apw@canonical.com>  Fri, 10 Jan 2014 14:24:43 +0000
+
+linux-signed (3.13.0-1.16) trusty; urgency=medium
+
+  * Version 3.13.0-1.16
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 07 Jan 2014 19:47:21 +0000
+
+linux-signed (3.13.0-0.14) trusty; urgency=medium
+
+  * Version 3.13.0-0.14
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 03 Jan 2014 18:32:21 +0000
+
+linux-signed (3.12.0-8.16) trusty; urgency=medium
+
+  * Version 3.12.0-8.16
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 02 Jan 2014 16:07:01 +0000
+
+linux-signed (3.12.0-6.14) trusty; urgency=low
+
+  * Version 3.12.0-6.14
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 05 Dec 2013 20:02:36 +0000
+
+linux-signed (3.12.0-5.13) trusty; urgency=low
+
+  * Version 3.12.0-5.13
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 02 Dec 2013 17:59:52 +0000
+
+linux-signed (3.12.0-4.12) trusty; urgency=low
+
+  * Version 3.12.0-4.12
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 26 Nov 2013 22:23:45 +0000
+
+linux-signed (3.12.0-4.11) trusty; urgency=low
+
+  * Version 3.12.0-4.11
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 26 Nov 2013 20:56:10 +0000
+
+linux-signed (3.12.0-4.10) trusty; urgency=low
+
+  * Version 3.12.0-4.10
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 21 Nov 2013 21:47:27 +0000
+
+linux-signed (3.12.0-3.9) trusty; urgency=low
+
+  * Version 3.12.0-3.9
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 20 Nov 2013 23:05:28 +0000
+
+linux-signed (3.12.0-3.8) trusty; urgency=low
+
+  * Version 3.12.0-3.8
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 18 Nov 2013 21:14:23 +0000
+
+linux-signed (3.12.0-2.7) trusty; urgency=low
+
+  * Version 3.12.0-2.7
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 08 Nov 2013 23:53:06 +0000
+
+linux-signed (3.12.0-2.6) trusty; urgency=low
+
+  * Version 3.12.0-2.6
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 08 Nov 2013 19:59:25 +0000
+
+linux-signed (3.12.0-2.5) trusty; urgency=low
+
+  * Version 3.12.0-2.5
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Wed, 06 Nov 2013 16:42:50 -0700
+
+linux-signed (3.12.0-2.4) trusty; urgency=low
+
+  * Version 3.12.0-2.4
+
+ -- Andy Whitcroft <apw@canonical.com>  Wed, 06 Nov 2013 22:03:04 +0000
+
+linux-signed (3.12.0-1.3) trusty; urgency=low
+
+  * Version 3.12.0-1.3
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 29 Oct 2013 18:40:47 +0000
+
+linux-signed (3.12.0-0.2) trusty; urgency=low
+
+  * Version 3.12.0-0.2
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 21 Oct 2013 18:05:00 +0000
+
+linux-signed (3.12.0-0.1) trusty; urgency=low
+
+  * Version 3.12.0-0.1
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 18 Oct 2013 18:56:23 +0000
+
+linux-signed (3.11.0-12.19) saucy; urgency=low
+
+  * Version 3.11.0-12.19
+
+ -- Andy Whitcroft <apw@canonical.com>  Wed, 09 Oct 2013 12:46:10 +0100
+
+linux-signed (3.11.0-12.18) saucy; urgency=low
+
+  * Version 3.11.0-12.18
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 08 Oct 2013 20:33:37 +0000
+
+linux-signed (3.11.0-11.17) saucy; urgency=low
+
+  * Version 3.11.0-11.17
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 01 Oct 2013 19:26:07 +0000
+
+linux-signed (3.11.0-9.16) saucy; urgency=low
+
+  * Version 3.11.0-9.16
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 27 Sep 2013 14:50:12 +0000
+
+linux-signed (3.11.0-8.15) saucy; urgency=low
+
+  * Version 3.11.0-8.15
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 20 Sep 2013 04:05:02 +0000
+
+linux-signed (3.11.0-7.14) saucy; urgency=low
+
+  * Version 3.11.0-7.14
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 16 Sep 2013 18:37:41 +0000
+
+linux-signed (3.11.0-7.13) saucy; urgency=low
+
+  * Version 3.11.0-7.13
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 10 Sep 2013 20:23:06 +0000
+
+linux-signed (3.11.0-6.12) saucy; urgency=low
+
+  * Version 3.11.0-6.12
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 09 Sep 2013 15:57:08 +0000
+
+linux-signed (3.11.0-5.11) saucy; urgency=low
+
+  * Version 3.11.0-5.11
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 06 Sep 2013 19:02:05 +0000
+
+linux-signed (3.11.0-5.10) saucy; urgency=low
+
+  * Version 3.11.0-5.10
+
+ -- Andy Whitcroft <apw@canonical.com>  Wed, 04 Sep 2013 10:44:54 +0100
+
+linux-signed (3.11.0-4.9) saucy; urgency=low
+
+  * Version 3.11.0-4.9
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 26 Aug 2013 15:18:15 +0000
+
+linux-signed (3.11.0-3.8) saucy; urgency=low
+
+  * Version 3.11.0-3.8
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 23 Aug 2013 16:46:52 +0000
+
+linux-signed (3.11.0-3.7) saucy; urgency=low
+
+  * Version 3.11.0-3.7
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 20 Aug 2013 15:21:15 +0000
+
+linux-signed (3.11.0-3.6) saucy; urgency=low
+
+  * Version 3.11.0-3.6
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 19 Aug 2013 14:41:01 +0000
+
+linux-signed (3.11.0-2.5) saucy; urgency=low
+
+  * Version 3.11.0-2.5
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 12 Aug 2013 16:09:36 +0000
+
+linux-signed (3.11.0-1.4) saucy; urgency=low
+
+  * Version 3.11.0-1.4
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 09 Aug 2013 02:27:26 +0000
+
+linux-signed (3.11.0-0.3) saucy; urgency=low
+
+  * Version 3.11.0-0.3
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 08 Aug 2013 13:44:39 +0000
+
+linux-signed (3.11.0-0.2) saucy; urgency=low
+
+  * Version 3.11.0-0.2
+
+ -- Andy Whitcroft <apw@canonical.com>  Wed, 07 Aug 2013 19:48:05 +0100
+
+linux-signed (3.10.0-6.17) saucy; urgency=low
+
+  * Version 3.10.0-6.17
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 26 Jul 2013 18:43:37 +0000
+
+linux-signed (3.10.0-5.15) saucy; urgency=low
+
+  * Version 3.10.0-5.15
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 24 Jul 2013 19:39:21 +0000
+
+linux-signed (3.10.0-5.14) saucy; urgency=low
+
+  * Version 3.10.0-5.14
+
+ -- Andy Whitcroft <apw@canonical.com>  Mon, 22 Jul 2013 16:13:03 +0100
+
+linux-signed (3.10.0-4.13) saucy; urgency=low
+
+  * Version 3.10.0-4.13
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 18 Jul 2013 19:16:22 +0000
+
+linux-signed (3.10.0-3.12) saucy; urgency=low
+
+  * Fix the version number constraint between linux and linux-signed to be
+    '=' to ensure we cannot migrate linux without linux-signed being in
+    lock step.  (LP: #1201444)
+  * Version 3.10.0-3.12
+
+ -- Andy Whitcroft <apw@canonical.com>  Mon, 15 Jul 2013 17:31:09 +0100
+
+linux-signed (3.10.0-2.11) saucy; urgency=low
+
+  * Version 3.10.0-2.11
+
+ -- Tim Gardner <rtg@salmon>  Thu, 11 Jul 2013 16:08:26 +0000
+
+linux-signed (3.10.0-2.10) saucy; urgency=low
+
+  * Version 3.10.0-2.10
+
+ -- Andy Whitcroft <apw@canonical.com>  Fri, 05 Jul 2013 18:58:08 +0100
+
+linux-signed (3.10.0-2.9) saucy; urgency=low
+
+  * Version 3.10.0-2.9
+
+ -- Andy Whitcroft <apw@canonical.com>  Mon, 01 Jul 2013 19:30:09 +0100
+
+linux-signed (3.10.0-1.8) saucy; urgency=low
+
+  * Version 3.10.0-1.8
+
+ -- Andy Whitcroft <apw@canonical.com>  Fri, 28 Jun 2013 14:45:36 +0100
+
+linux-signed (3.10.0-0.7) saucy; urgency=low
+
+  * Version 3.10.0-0.7
+
+ -- Andy Whitcroft <apw@canonical.com>  Tue, 25 Jun 2013 18:46:54 +0100
+
+linux-signed (3.10.0-0.6) saucy; urgency=low
+
+  * Version 3.10.0-0.6
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 24 Jun 2013 13:33:31 -0600
+
+linux-signed (3.9.0-7.15) saucy; urgency=low
+
+  * Version 3.9.0-7.15
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 21 Jun 2013 06:19:51 -0600
+
+linux-signed (3.9.0-6.13) saucy; urgency=low
+
+  * Version 3.9.0-6.13
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 14 Jun 2013 09:46:26 -0600
+
+linux-signed (3.9.0-5.11) saucy; urgency=low
+
+  * Version 3.9.0-5.11
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 11 Jun 2013 11:51:37 -0600
+
+linux-signed (3.9.0-5.10) saucy; urgency=low
+
+  * Version 3.9.0-5.10
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 11 Jun 2013 08:39:38 -0600
+
+linux-signed (3.9.0-4.9) saucy; urgency=low
+
+  * Version 3.9.0-4.9
+
+ -- Andy Whitcroft <apw@canonical.com>  Wed, 05 Jun 2013 15:31:21 +0100
+
+linux-signed (3.9.0-3.8) saucy; urgency=low
+
+  * Version 3.9.0-3.8
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 28 May 2013 12:36:05 -0600
+
+linux-signed (3.9.0-2.7) saucy; urgency=low
+
+  * Version 3.9.0-2.7
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 20 May 2013 08:26:18 -0600
+
+linux-signed (3.9.0-2.6) saucy; urgency=low
+
+  * Version 3.9.0-2.6
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 14 May 2013 10:53:54 -0600
+
+linux-signed (3.9.0-1.5) saucy; urgency=low
+
+  * Version 3.9.0-1.5
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 08 May 2013 14:49:31 -0600
+
+linux-signed (3.9.0-0.4) saucy; urgency=low
+
+  * Version 3.9.0-0.4
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 02 May 2013 15:39:51 -0600
+
+linux-signed (3.9.0-0.3) saucy; urgency=low
+
+  * Version 3.9.0-0.3
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 29 Apr 2013 17:12:33 -0600
+
+linux-signed (3.9.0-0.2) saucy; urgency=low
+
+  * Version 3.9.0-0.2
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 29 Apr 2013 07:09:47 -0600
+
+linux-signed (3.9.0-0.1) saucy; urgency=low
+
+  * Version 3.9.0-0.1
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 26 Apr 2013 09:49:26 -0600
+
+linux-signed (3.8.0-19.29) raring; urgency=low
+
+  * Version 3.8.0-19.29
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 17 Apr 2013 12:10:02 -0600
+
+linux-signed (3.8.0-18.28) raring; urgency=low
+
+  * Version 3.8.0-18.28
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 11 Apr 2013 13:19:16 -0600
+
+linux-signed (3.8.0-16.26) raring; urgency=low
+
+  * Version 3.8.0-16.26
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 01 Apr 2013 13:10:30 -0600
+
+linux-signed (3.8.0-15.25) raring; urgency=low
+
+  * Version 3.8.0-15.25
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 27 Mar 2013 13:15:41 -0600
+
+linux-signed (3.8.0-14.24) raring; urgency=low
+
+  * Version 3.8.0-14.24
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 22 Mar 2013 13:07:31 -0600
+
+linux-signed (3.8.0-13.23) raring; urgency=low
+
+  * Version 3.8.0-13.23
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 18 Mar 2013 12:05:14 -0600
+
+linux-signed (3.8.0-13.22) raring; urgency=low
+
+  * Version 3.8.0-13.22
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 15 Mar 2013 11:45:34 -0600
+
+linux-signed (3.8.0-12.21) raring; urgency=low
+
+  * Version 3.8.0-12.21
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 07 Mar 2013 10:06:49 -0700
+
+linux-signed (3.8.0-11.20) raring; urgency=low
+
+  * Version 3.8.0-11.20
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 05 Mar 2013 13:28:24 -0700
+
+linux-signed (3.8.0-10.19) raring; urgency=low
+
+  * Version 3.8.0-10.19
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 04 Mar 2013 08:47:42 -0700
+
+linux-signed (3.8.0-9.18) raring; urgency=low
+
+  * Version 3.8.0-9.18
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 28 Feb 2013 09:57:25 -0700
+
+linux-signed (3.8.0-8.17) raring; urgency=low
+
+  * Version 3.8.0-8.17
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 26 Feb 2013 13:25:04 -0700
+
+linux-signed (3.8.0-7.16) raring; urgency=low
+
+  * Version 3.8.0-7.16
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 26 Feb 2013 06:24:33 -0700
+
+linux-signed (3.8.0-7.15) raring; urgency=low
+
+  * Version 3.8.0-7.15
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 21 Feb 2013 13:04:03 -0700
+
+linux-signed (3.8.0-7.14) raring; urgency=low
+
+  * Version 3.8.0-7.14
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 19 Feb 2013 08:49:33 -0700
+
+linux-signed (3.8.0-6.13) raring; urgency=low
+
+  * Version 3.8.0-6.13
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 14 Feb 2013 10:20:03 -0700
+
+linux-signed (3.8.0-6.11) raring; urgency=low
+
+  * Version 3.8.0-6.11
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 11 Feb 2013 08:54:54 -0700
+
+linux-signed (3.8.0-5.10) raring; urgency=low
+
+  * Version 3.8.0-5.10
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 07 Feb 2013 10:55:33 -0700
+
+linux-signed (3.8.0-4.8) raring; urgency=low
+
+  * Version 3.8.0-4.8
+
+ -- Leann Ogasawara <leann.ogasawara@canonical.com>  Fri, 01 Feb 2013 07:32:58 -0800
+
+linux-signed (3.8.0-3.7) raring; urgency=low
+
+  * Version 3.8.0-3.7
+
+ -- Leann Ogasawara <leann.ogasawara@canonical.com>  Thu, 31 Jan 2013 06:49:24 -0800
+
+linux-signed (3.8.0-2.6) raring; urgency=low
+
+  * Version 3.8.0-2.6
+
+ -- Leann Ogasawara <leann.ogasawara@canonical.com>  Fri, 25 Jan 2013 12:08:13 -0800
+
+linux-signed (3.8.0-1.5) raring; urgency=low
+
+  * Version 3.8.0-1.5
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Fri, 18 Jan 2013 08:18:07 -0700
+
+linux-signed (3.8.0-0.4) raring; urgency=low
+
+  * Version 3.8.0-0.4
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 15 Jan 2013 13:34:27 -0700
+
+linux-signed (3.8.0-0.2) raring; urgency=low
+
+  * Version 3.8.0-0.2
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 10 Jan 2013 21:16:49 -0700
+
+linux-signed (3.8.0-0.1) raring; urgency=low
+
+  * Version 3.8.0-0.1
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 10 Jan 2013 07:35:18 -0700
+
+linux-signed (3.7.0-7.15) raring; urgency=low
+
+  * Version 3.7.0-7.15
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Sat, 15 Dec 2012 07:19:28 -0700
+
+linux-signed (3.7.0-6.14) raring; urgency=low
+
+  * Version 3.7.0-6.14
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 11 Dec 2012 06:10:36 -0700
+
+linux-signed (3.7.0-5.13) raring; urgency=low
+
+  * Version 3.7.0-5.13
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 05 Dec 2012 05:21:25 -0700
+
+linux-signed (3.7.0-4.12) raring; urgency=low
+
+  * Version 3.7.0-4.12
+
+ -- Leann Ogasawara <leann.ogasawara@canonical.com>  Tue, 27 Nov 2012 13:16:54 -0800
+
+linux-signed (3.7.0-4.11) raring; urgency=low
+
+  * Version 3.7.0-4.11
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 27 Nov 2012 13:14:44 -0800
+
+linux-signed (3.7.0-4.10) raring; urgency=low
+
+  * Version 3.7.0-4.10
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 27 Nov 2012 07:18:48 -0700
+
+linux-signed (3.7.0-3.9) raring; urgency=low
+
+  * Version 3.7.0-3.9
+  * Add Built-Using: fields pointing to the original linux source packages.
+  * Standard-Version: 3.9.4
+
+ -- Leann Ogasawara <leann.ogasawara@canonical.com>  Tue, 20 Nov 2012 14:10:53 -0800
+
+linux-signed (3.7.0-2.8) raring; urgency=low
+
+  * Version 3.7.0-2.8
+
+ -- Andy Whitcroft <apw@canonical.com>  Thu, 15 Nov 2012 16:19:35 +0000
+
+linux-signed (3.7.0-1.6) raring; urgency=low
+
+  * linux 3.7.0-1.6
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Wed, 14 Nov 2012 06:54:40 -0700
+
+linux-signed (3.7.0-0.5+signed1) raring; urgency=low
+
+  * control-scripts.stub: update-grub may fail in a livefs environment and
+    in that context is not fatal.  For now just ignore update-grub errors.
+
+ -- Andy Whitcroft <apw@canonical.com>  Wed, 14 Nov 2012 11:53:51 +0000
+
+linux-signed (3.7.0-0.5) raring; urgency=low
+
+  * update-version: fix commit command
+  * Version 3.7.0-0.5
+
+ -- Andy Whitcroft <apw@canonical.com>  Fri, 09 Nov 2012 11:05:42 +0000
+
+linux-signed (3.7.0-0.4) raring; urgency=low
+
+  * rules: include only the signature for the kernel image.  (LP: #1075181)
+  * control.stub: add sbsigntool build-dep: to allow signature manipulation.
+  * flavour.stub: add sbsigntool depends: to allow signature manipulation.
+  * rules: fix version handling for PPA use.
+  * Version 3.7.0-0.4
+
+ -- Andy Whitcroft <apw@canonical.com>  Thu, 08 Nov 2012 18:24:03 +0000
+
+linux-signed (3.5.0-17.28+signed2) quantal-proposed; urgency=low
+
+  * download-signed: add the -security pocket to the search list.
+  * update-version: handle an UNRELEASED version stanza.
+  * update-version: dump proposed commit and tag commands.
+  * rules: add signed udebs for the Debian installer.
+
+ -- Andy Whitcroft <apw@canonical.com>  Wed, 10 Oct 2012 01:53:37 +0100
+
+linux-signed (3.5.0-17.28+signed1) quantal-proposed; urgency=low
+
+  * Search all pockets for the appropriate binary.
+
+ -- Andy Whitcroft <apw@canonical.com>  Wed, 10 Oct 2012 00:44:59 +0100
+
+linux-signed (3.5.0-17.28) quantal-proposed; urgency=low
+
+  * Version 3.5.0-17.28
+
+ -- Andy Whitcroft <apw@canonical.com>  Tue, 09 Oct 2012 20:44:50 +0100
+
+linux-signed (3.5.0-17.27+signed2) quantal-proposed; urgency=low
+
+  * Add linux-image-extra to dependancies to pull in full set of kernel
+    modules.
+
+ -- Andy Whitcroft <apw@canonical.com>  Mon, 08 Oct 2012 13:07:30 +0100
+
+linux-signed (3.5.0-17.27+signed1) quantal-proposed; urgency=low
+
+  * Add initial postinst and postrm support.  Simply calls out to
+    update-grub.
+  * Add versioned dependancies to the main linux-image binaries as we
+    need the approriate modules and initramfs.
+
+ -- Andy Whitcroft <apw@canonical.com>  Fri, 05 Oct 2012 15:21:39 +0100
+
 linux-signed (3.5.0-17.27) quantal-proposed; urgency=low
 
   * Version 3.5.0-17.27
