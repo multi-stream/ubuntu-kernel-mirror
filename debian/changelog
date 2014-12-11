@@ -1,3 +1,9 @@
+linux-signed (3.18.0-7.8) vivid; urgency=medium
+
+  * Version 3.18.0-7.8
+
+ -- Leann Ogasawara <leann.ogasawara@canonical.com>  Thu, 11 Dec 2014 08:52:41 -0800
+
 linux-signed (3.18.0-6.7) vivid; urgency=medium
 
   * Version 3.18.0-6.7
