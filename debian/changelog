@@ -1,3 +1,9 @@
+linux-signed (3.19.0-10.10) vivid; urgency=medium
+
+  * Version 3.19.0-10.10
+
+ -- Andy Whitcroft <apw@canonical.com>  Mon, 23 Mar 2015 16:20:22 +0000
+
 linux-signed (3.19.0-9.9) vivid; urgency=medium
 
   * Version 3.19.0-9.9
