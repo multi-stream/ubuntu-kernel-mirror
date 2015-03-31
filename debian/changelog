@@ -1,3 +1,9 @@
+linux-signed (3.19.0-11.11) vivid; urgency=medium
+
+  * Version 3.19.0-11.11
+
+ -- Leann Ogasawara <leann.ogasawara@canonical.com>  Tue, 31 Mar 2015 12:00:30 -0700
+
 linux-signed (3.19.0-10.10) vivid; urgency=medium
 
   * Version 3.19.0-10.10
