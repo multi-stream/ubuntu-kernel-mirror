@@ -1,3 +1,9 @@
+linux-signed (4.0.0-1.1) wily; urgency=medium
+
+  * Version 4.0.0-1.1
+
+ -- Leann Ogasawara <leann.ogasawara@canonical.com>  Tue, 09 Jun 2015 05:36:57 -0700
+
 linux-signed (3.19.0-16.16) vivid; urgency=medium
 
   * Version 3.19.0-16.16
