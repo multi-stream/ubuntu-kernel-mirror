@@ -28,6 +28,42 @@ linux-signed (4.0.0-1.1) wily; urgency=medium
 
  -- Leann Ogasawara <leann.ogasawara@canonical.com>  Tue, 09 Jun 2015 05:36:57 -0700
 
+linux-signed (3.19.0-22.22) vivid; urgency=medium
+
+  * Version 3.19.0-22.22
+
+ -- Brad Figg <brad.figg@canonical.com>  Tue, 16 Jun 2015 10:05:07 -0700
+
+linux-signed (3.19.0-21.21) vivid; urgency=medium
+
+  * Version 3.19.0-21.21
+
+ -- Luis Henriques <luis.henriques@canonical.com>  Thu, 11 Jun 2015 13:04:30 +0100
+
+linux-signed (3.19.0-20.20) vivid; urgency=medium
+
+  * Version 3.19.0-20.20
+
+ -- Luis Henriques <luis.henriques@canonical.com>  Fri, 29 May 2015 10:53:15 +0100
+
+linux-signed (3.19.0-19.19) vivid; urgency=medium
+
+  * Version 3.19.0-19.19
+
+ -- Brad Figg <brad.figg@canonical.com>  Tue, 26 May 2015 14:30:50 -0700
+
+linux-signed (3.19.0-18.18) vivid; urgency=medium
+
+  * Version 3.19.0-18.18
+
+ -- Luis Henriques <luis.henriques@canonical.com>  Tue, 19 May 2015 19:15:46 +0100
+
+linux-signed (3.19.0-17.17) vivid; urgency=medium
+
+  * Version 3.19.0-17.17
+
+ -- Brad Figg <brad.figg@canonical.com>  Wed, 06 May 2015 09:40:18 -0700
+
 linux-signed (3.19.0-16.16) vivid; urgency=medium
 
   * Version 3.19.0-16.16
