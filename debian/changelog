@@ -1,3 +1,9 @@
+linux-signed (4.0.0-4.7) wily; urgency=medium
+
+  * Version 4.0.0-4.7
+
+ -- Andy Whitcroft <apw@canonical.com>  Thu, 09 Jul 2015 16:05:45 +0100
+
 linux-signed (4.0.0-4.6) wily; urgency=medium
 
   * Version 4.0.0-4.6
