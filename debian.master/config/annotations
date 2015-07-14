@@ -456,6 +456,7 @@ CONFIG_W1_SLAVE_DS2408_READBACK			y
 CONFIG_W1_SLAVE_DS2433_CRC			n
 
 # Menu: Device Drivers >> Device Tree and Open Firmware support
+CONFIG_OF					p policy<{'amd64': 'n', 'i386': 'n', '*': 'y'}> note<LP:#1474447>
 CONFIG_OF_UNITTEST				n flag<DEBUG>
 
 # Menu: Device Drivers >> EDAC (Error Detection And Correction) reporting
