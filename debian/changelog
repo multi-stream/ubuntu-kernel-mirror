@@ -1,8 +1,12 @@
-linux-signed (4.2.0-12.14+signed1) UNRELEASED; urgency=low
+linux-signed (4.2.0-13.15) wily; urgency=low
 
+  [ Andy Whitcroft ]
   * Add linux-signed-*-lowlatency.  (LP: #1500910)
 
- -- Andy Whitcroft <apw@canonical.com>  Tue, 29 Sep 2015 15:59:59 +0100
+  [ Tim Gardner ]
+  * Version 4.2.0-13.15
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 29 Sep 2015 09:31:15 -0600
 
 linux-signed (4.2.0-12.14) wily; urgency=medium
 
