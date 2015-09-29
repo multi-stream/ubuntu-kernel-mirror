@@ -5,6 +5,7 @@ linux-signed (4.2.0-13.15) wily; urgency=low
 
   [ Tim Gardner ]
   * Version 4.2.0-13.15
+  * UBUNTU: comma separate the list of binaries used for Build-Depends
 
  -- Tim Gardner <tim.gardner@canonical.com>  Tue, 29 Sep 2015 09:31:15 -0600
 
