@@ -15,7 +15,7 @@ src_abi = $(shell echo "$(src_version)" | sed -ne 's/\([0-9]*\.[0-9]*\.[0-9]*\-[
 flavours = generic lowlatency
 
 flavour_first = $(firstword $(flavours))
-binaries = $(foreach flavour,$(flavours),linux-image-$(src_abi)-$(flavour) \(>= $(src_version)\))
+binaries = $(foreach flavour,$(flavours),linux-image-$(src_abi)-$(flavour) \(>= $(src_version)\), )
 
 # We build our control file.  This has to be done before dh runs otherwise
 # we have no binary files and we will not run the appropriate targets.
