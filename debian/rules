@@ -12,7 +12,9 @@ src_version = $(shell LC_ALL=C dpkg-parsechangelog | grep ^Version: | cut -d ' '
 src_abi = $(shell echo "$(src_version)" | sed -ne 's/\([0-9]*\.[0-9]*\.[0-9]*\-[0-9]*\)\..*/\1/p')
 
 # Flavours in the master package.
+# NOTE: flavours must be a superset of udeb_flavours.
 flavours = generic lowlatency
+udeb_flavours = generic
 
 flavour_first = $(firstword $(flavours))
 binaries = $(foreach flavour,$(flavours),linux-image-$(src_abi)-$(flavour) \(>= $(src_version)\), )
@@ -24,6 +26,10 @@ pre-clean:
 		cat debian/control.stub;				\
 		for flavour in $(flavours); do				\
 			sed <debian/flavour.stub			\
+				-e "s/FLAVOUR/$$flavour/g";		\
+		done;							\
+		for flavour in $(udeb_flavours); do			\
+			sed <debian/flavour-udeb.stub			\
 				-e "s/FLAVOUR/$$flavour/g";		\
 		done;							\
 	} | sed >debian/control						\
@@ -56,6 +62,8 @@ override_dh_auto_install:
 	for flavour in $(flavours); do					\
 		echo "vmlinuz-$(src_abi)-$$flavour.efi.signature usr/lib/linux"	\
 			 >"debian/linux-signed-image-$(src_abi)-$$flavour.install"; \
+	done;								\
+	for flavour in $(udeb_flavours); do				\
 		echo "vmlinuz-$(src_abi)-$$flavour.efi.signed boot"	\
 			 >"debian/kernel-signed-image-$(src_abi)-$$flavour-di.install"; \
 	done
