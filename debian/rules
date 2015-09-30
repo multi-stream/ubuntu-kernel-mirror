@@ -41,22 +41,20 @@ pre-clean:
 		debian/linux-signed-image-*.postinst 			\
 		debian/linux-signed-image-*.postrm
 
-pre-binary: download-signed
-	./download-signed "linux-image-$(src_abi)-$(flavour_first)" \
+PHONY: pre-clean
+
+clean:: pre-clean
+
+%:
+	dh $@
+
+override_dh_auto_build:
+	./download-signed "linux-image-$(src_abi)-$(flavour_first)"	\
 		"$(src_version)" "$(src_package)"
 	for flavour in $(flavours); do					\
 		sbattach --detach vmlinuz-$(src_abi)-$$flavour.efi.signature \
 			vmlinuz-$(src_abi)-$$flavour.efi.signed;	\
 	done
-
-PHONY: pre-clean pre-binary
-
-clean:: pre-clean
-binary:: pre-binary
-binary-arch:: pre-binary
-
-%:
-	dh $@
 
 override_dh_auto_install:
 	for flavour in $(flavours); do					\
