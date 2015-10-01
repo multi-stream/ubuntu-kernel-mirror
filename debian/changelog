@@ -1,9 +1,13 @@
-linux-signed (4.2.0-13.15+signed3) UNRELEASED; urgency=low
+linux-signed (4.2.0-14.16) wily; urgency=low
 
+  [ Andy Whitcroft ]
   * split separate shell commands so make can see them, aids debugging in
     case of failure.
 
- -- Andy Whitcroft <apw@canonical.com>  Wed, 30 Sep 2015 11:56:35 +0100
+  [ Tim Gardner ]
+  * Version 4.2.0-14.16
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 01 Oct 2015 10:53:10 -0700
 
 linux-signed (4.2.0-13.15+signed2) wily; urgency=low
 
