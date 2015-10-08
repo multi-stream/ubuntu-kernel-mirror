@@ -1,3 +1,9 @@
+linux-signed (4.2.0-16.19) wily; urgency=medium
+
+  * Version 4.2.0-16.19
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Thu, 08 Oct 2015 07:50:17 -0600
+
 linux-signed (4.2.0-15.18) wily; urgency=medium
 
   * Version 4.2.0-15.18
