@@ -1,3 +1,9 @@
+linux-signed (4.2.0-17.20) wily; urgency=medium
+
+  * Version 4.2.0-17.20
+
+ -- Brad Figg <brad.figg@canonical.com>  Thu, 22 Oct 2015 09:38:14 -0700
+
 linux-signed (4.2.0-16.19) wily; urgency=medium
 
   * Version 4.2.0-16.19
