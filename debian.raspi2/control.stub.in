@@ -47,7 +47,7 @@ Vcs-Git: git://kernel.ubuntu.com/ubuntu/ubuntu-xenial.git raspi2
 XS-Testsuite: autopkgtest
 #XS-Testsuite-Depends: gcc-4.7 binutils
 
-Package: SRCPKGNAME-headers-PKGVER-ABINUM
+Package: linux-headers-PKGVER-ABINUM
 Build-Profiles: <!stage1>
 Architecture: armhf
 Multi-Arch: foreign
@@ -57,7 +57,7 @@ Depends: ${misc:Depends}, coreutils | fileutils (>= 4.0)
 Description: Header files related to Linux kernel version PKGVER
  This package provides kernel header files for version PKGVER, for sites
  that want the latest kernel headers. Please read
- /usr/share/doc/SRCPKGNAME-headers-PKGVER-ABINUM/debian.README.gz for details
+ /usr/share/doc/linux-headers-PKGVER-ABINUM/debian.README.gz for details
 
 Package: SRCPKGNAME-tools-PKGVER-ABINUM
 Build-Profiles: <!stage1>
