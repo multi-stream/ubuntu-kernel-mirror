@@ -329,6 +329,8 @@ CONFIG_LEGACY_PTY_COUNT				0
 CONFIG_PPC_EPAPR_HV_BYTECHAN			n
 CONFIG_N_GSM					m note<LP#1404670>
 
+CONFIG_NVRAM                                    mark<ENFORCED> note<boot essential on powerpc LP:942193>
+
 # Menu: Device Drivers >> Character devices >> Enable TTY >> Non-standard serial port support
 CONFIG_SERIAL_NONSTANDARD			y
 CONFIG_CYZ_INTR					n
@@ -2891,7 +2893,11 @@ CONFIG_TREE_RCU                                 p policy<{'amd64-generic': 'y', 
 CONFIG_PREEMPT_RCU                              p policy<{'amd64-lowlatency': 'y', 'i386-lowlatency': 'y'}>
 
 # Menu: General setup >> Stack Protector buffer overflow detection
-CONFIG_CC_STACKPROTECTOR_REGULAR		p mark<ENFORCED> policy<{'powerpc': '-', 'ppc64el': '-', '*': 'y'}>
+CONFIG_CC_STACKPROTECTOR_NONE                   policy<{'amd64': 'n', 'arm64': 'n', 'armhf': 'n', 'i386': 'n'}>
+CONFIG_CC_STACKPROTECTOR_REGULAR                policy<{'amd64': 'n', 'arm64': 'n', 'armhf': 'n', 'i386': 'n'}>
+CONFIG_CC_STACKPROTECTOR_STRONG                 policy<{'amd64': 'y', 'arm64': 'y', 'armhf': 'y', 'i386': 'y'}>
+#
+CONFIG_CC_STACKPROTECTOR_STRONG			mark<ENFORCED>
 
 # Menu: General setup >> Stack Protector buffer overflow detection >> Architecture: arm
 
