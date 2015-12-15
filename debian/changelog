@@ -1,3 +1,9 @@
+linux-signed (4.3.0-5.14) xenial; urgency=medium
+
+  * Version 4.3.0-5.14
+
+ -- Andy Whitcroft <apw@canonical.com>  Tue, 15 Dec 2015 12:43:37 +0000
+
 linux-signed (4.3.0-4.13) xenial; urgency=medium
 
   * Version 4.3.0-4.13
