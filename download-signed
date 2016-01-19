@@ -4,8 +4,8 @@ import sys
 import re
 import shutil
 from urllib.parse import urlparse, urlunparse
-from urllib.request import urlopen
 from urllib.error import HTTPError
+from urllib import request
 
 import apt
 from aptsources.distro import get_distro
@@ -33,16 +33,45 @@ distro = get_distro().codename
 package_dir = "/main/uefi/%s-%s/%s/" % (
     src_package, package.architecture, package_version)
 
+# Prepare the master url stem and pull out any username/password.  If present
+# replace the default opener with one which offers that password.
+dists_parsed_master = list(pool_parsed)
+if '@' in dists_parsed_master[1]:
+    (username_password, host) = pool_parsed[1].split('@', 1)
+    (username, password) = username_password.split(':', 1)
+
+    dists_parsed_master[1] = host
+
+    # Work out the authentication domain.
+    domain_parsed = [ dists_parsed_master[0], dists_parsed_master[1], '/', None, None, None ]
+    auth_uri = urlunparse(domain_parsed)
+
+    # create a password manager
+    password_mgr = request.HTTPPasswordMgrWithDefaultRealm()
+
+    # Add the username and password.
+    # If we knew the realm, we could use it instead of None.
+    password_mgr.add_password(None, auth_uri, username, password)
+
+    handler = request.HTTPBasicAuthHandler(password_mgr)
+
+    # create "opener" (OpenerDirector instance)
+    opener = request.build_opener(handler)
+
+    # Now all calls to urllib.request.urlopen use our opener.
+    request.install_opener(opener)
+
+
 def download(base):
     for pocket in ('-proposed', '-updates', '-security', '', '-backports'):
-        dists_parsed = list(pool_parsed)
+        dists_parsed = list(dists_parsed_master)
         dists_parsed[2] = re.sub(r"/pool/.*", "/dists/" + distro + \
             pocket + package_dir + base, dists_parsed[2])
         dists_uri = urlunparse(dists_parsed)
 
         print("Downloading %s ... " % dists_uri, end='')
         try:
-            with urlopen(dists_uri) as dists, open(base, "wb") as out:
+            with request.urlopen(dists_uri) as dists, open(base, "wb") as out:
                 shutil.copyfileobj(dists, out)
         except HTTPError as e:
             if e.code == 404:
