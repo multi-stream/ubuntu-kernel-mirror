@@ -1,3 +1,9 @@
+linux-signed (4.4.0-12.28) xenial; urgency=medium
+
+  * Version 4.4.0-12.28
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Tue, 08 Mar 2016 17:18:48 -0700
+
 linux-signed (4.4.0-12.27) xenial; urgency=medium
 
   * Version 4.4.0-12.27
