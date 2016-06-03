@@ -1,3 +1,9 @@
+linux-signed (4.4.0-24.42) xenial; urgency=medium
+
+  * Version 4.4.0-24.42
+
+ -- Kamal Mostafa <kamal@canonical.com>  Fri, 03 Jun 2016 12:39:47 -0700
+
 linux-signed (4.4.0-23.41) xenial; urgency=medium
 
   * Version 4.4.0-23.41
