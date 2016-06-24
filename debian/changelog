@@ -1,3 +1,9 @@
+linux-signed (4.4.0-28.47) xenial; urgency=medium
+
+  * Version 4.4.0-28.47
+
+ -- Luis Henriques <luis.henriques@canonical.com>  Fri, 24 Jun 2016 10:43:05 +0100
+
 linux-signed (4.4.0-27.46) xenial; urgency=medium
 
   * Version 4.4.0-27.46
