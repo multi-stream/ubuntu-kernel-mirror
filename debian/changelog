@@ -1,3 +1,14 @@
+linux-signed (4.6.0-10.12) yakkety; urgency=medium
+
+  * Version: 4.6.0-10.12
+
+  * ensure all items are included in changelog and standardise packaging
+    (LP: #1601954)
+    - add git-ubuntu-log for changelog formatting
+    - update update-version to handle local commits
+
+ -- Leann Ogasawara <leann.ogasawara@canonical.com>  Thu, 11 Aug 2016 15:40:28 -0700
+
 linux-signed (4.6.0-9.11) yakkety; urgency=medium
 
   * Version 4.6.0-9.11
