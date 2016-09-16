@@ -59,7 +59,7 @@ tmp="/tmp/$$.msg"
 if dpkg --compare-versions "$here_version" lt "$master_version"; then
 	echo "Updated to version: $master_version"
 	[ -f "$tmp" ] && echo "" >>"$tmp"
-	echo "Master version: $master_version" >>"$tmp"
+	echo "  * Master version: $master_version" >>"$tmp"
 fi
 
 # Format any existing commits.
