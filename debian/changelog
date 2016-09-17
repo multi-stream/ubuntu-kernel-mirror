@@ -1,3 +1,14 @@
+linux-signed (4.8.0-11.12) yakkety; urgency=medium
+
+  * Master version: 4.8.0-11.12
+
+  * Miscellaneous Ubuntu changes
+    - update-version -- fix master version prefix
+    - changelog -- fix up existing broken entries
+    - changelog -- properly format previous entry
+
+ -- Leann Ogasawara <leann.ogasawara@canonical.com>  Fri, 16 Sep 2016 19:39:43 -0700
+
 linux-signed (4.8.0-10.11) yakkety; urgency=medium
 
   * Master version: 4.8.0-10.11
