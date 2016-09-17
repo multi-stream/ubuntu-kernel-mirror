@@ -1,6 +1,6 @@
 linux-signed (4.8.0-10.11) yakkety; urgency=medium
 
-Master version: 4.8.0-10.11
+  * Master version: 4.8.0-10.11
 
  -- Tim Gardner <tim.gardner@canonical.com>  Fri, 16 Sep 2016 06:47:46 -0600
 
