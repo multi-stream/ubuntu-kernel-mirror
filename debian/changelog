@@ -1,3 +1,9 @@
+linux-signed (4.8.0-14.15) yakkety; urgency=medium
+
+  * Master version: 4.8.0-14.15
+
+ -- Leann Ogasawara <leann.ogasawara@canonical.com>  Tue, 20 Sep 2016 14:20:42 -0700
+
 linux-signed (4.8.0-13.14) yakkety; urgency=medium
 
   * Master version: 4.8.0-13.14
