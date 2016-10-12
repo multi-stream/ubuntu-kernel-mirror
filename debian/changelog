@@ -1,3 +1,9 @@
+linux-signed (4.8.0-24.26) yakkety; urgency=medium
+
+  * Master version: 4.8.0-24.26
+
+ -- Seth Forshee <seth.forshee@canonical.com>  Wed, 12 Oct 2016 10:37:17 -0500
+
 linux-signed (4.8.0-23.25) yakkety; urgency=medium
 
   * Master version: 4.8.0-23.25
