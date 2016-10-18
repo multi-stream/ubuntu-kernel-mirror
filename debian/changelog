@@ -1,3 +1,9 @@
+linux-signed (4.8.0-26.28) yakkety; urgency=medium
+
+  * Master version: 4.8.0-26.28
+
+ -- Stefan Bader <stefan.bader@canonical.com>  Tue, 18 Oct 2016 14:09:51 +0000
+
 linux-signed (4.8.0-25.27) yakkety; urgency=medium
 
   * Master version: 4.8.0-25.27
