@@ -1,3 +1,181 @@
+linux-signed (4.10.0-2.4) zesty; urgency=medium
+
+  * Master version: 4.10.0-2.4
+
+  * ensure all items are included in changelog and standardise packaging
+    (LP: #1601954)
+    - add git-ubuntu-log for changelog formatting
+    - update update-version to handle local commits
+
+  * linux-signed: does not build in a private PPA (LP: #1535634)
+    - fix download-signed to handle private PPAs
+
+  * linux-signed-<flavour>: dependencies to linux-image-extra are on the wrong
+    package (LP: #1501235)
+    - move linux-signed linux-image-extra-* dependencies and move to linux-meta
+
+  * linux-signed should also produce linux-signed-image-*-lowlatency
+    (LP: #1500910)
+    - add lowlatency signed package
+
+  * Miscellaneous Ubuntu changes
+    - Ubuntu-3.18.0-1.1
+    - Ubuntu-3.18.0-2.2
+    - Ubuntu-3.18.0-3.3
+    - Ubuntu-3.18.0-3.4
+    - Ubuntu-3.18.0-4.5
+    - Ubuntu-3.18.0-5.6
+    - Ubuntu-3.18.0-6.7
+    - Ubuntu-3.18.0-7.8
+    - Ubuntu-3.18.0-8.9
+    - Ubuntu-3.18.0-9.10
+    - Ubuntu-3.18.0-10.11
+    - [Packaging] force "dpkg-source -I -i" behavior
+    - Ubuntu-3.18.0-11.12
+    - Ubuntu-3.18.0-12.13
+    - Ubuntu-3.18.0-13.14
+    - Ubuntu-3.18.0-14.15
+    - Ubuntu-3.19.0-2.2
+    - Ubuntu-3.19.0-3.3
+    - Ubuntu-3.19.0-4.4
+    - Ubuntu-3.19.0-5.5
+    - Ubuntu-3.19.0-6.6
+    - Ubuntu-3.19.0-7.7
+    - Ubuntu-3.19.0-8.8
+    - Ubuntu-3.19.0-9.9
+    - Ubuntu-3.19.0-10.10
+    - Ubuntu-3.19.0-11.11
+    - Ubuntu-3.19.0-12.12
+    - Ubuntu-3.19.0-13.13
+    - Ubuntu-3.19.0-14.14
+    - Ubuntu-3.19.0-15.15
+    - Ubuntu-3.19.0-16.16
+    - Ubuntu-4.0.0-1.1
+    - Ubuntu-4.0.0-1.2
+    - Ubuntu-4.0.0-2.3
+    - Ubuntu-4.0.0-2.4
+    - Ubuntu-4.0.0-3.5
+    - pull in missing history
+    - Ubuntu-4.0.0-4.6
+    - Ubuntu-4.0.0-4.7
+    - Ubuntu-4.1.0-1.1
+    - Ubuntu-4.1.0-2.2
+    - Ubuntu-4.1.0-3.3
+    - Ubuntu-4.2.0-1.1~rc1
+    - Ubuntu-4.2.0-3.3
+    - Ubuntu-4.2.0-4.4
+    - Ubuntu-4.2.0-5.5
+    - Ubuntu-4.2.0-6.6
+    - Ubuntu-4.2.0-7.7
+    - Ubuntu-4.2.0-8.8
+    - Ubuntu-4.2.0-9.9
+    - Ubuntu-4.2.0-10.10
+    - Ubuntu-4.2.0-10.12
+    - Ubuntu-4.2.0-11.13
+    - Ubuntu-4.2.0-12.14
+    - Ubuntu-4.2.0-13.15
+    - comma separate the list of binaries used for Build-Depends
+    - Updated Ubuntu-4.2.0-13.15
+    - allow us to configure which flavours produce udebs
+    - switch downloads to build phase to prevent us downloading the kernel
+      binaries twice during build
+    - Ubuntu-4.2.0-13.15+signed2
+    - split separate shell commands so make can see them
+    - Ubuntu-4.2.0-14.16
+    - Ubuntu-4.2.0-15.17
+    - Ubuntu-4.2.0-15.18
+    - Ubuntu-4.2.0-16.19
+    - Ubuntu-4.2.0-17.20
+    - Ubuntu-4.3.0-0.6
+    - Ubuntu-4.3.0-0.8
+    - Ubuntu-4.3.0-0.9
+    - Ubuntu-4.3.0-1.10
+    - Ubuntu-4.3.0-2.11
+    - Ubuntu-4.3.0-4.13
+    - Ubuntu-4.3.0-5.14
+    - Ubuntu-4.3.0-5.15
+    - Ubuntu-4.3.0-5.16
+    - Ubuntu-4.3.0-6.17
+    - Ubuntu-4.3.0-7.18
+    - Ubuntu-4.4.0-1.15
+    - Ubuntu-4.4.0-2.16
+    - Ubuntu-4.4.0-3.17
+    - Ubuntu-4.4.0-4.19
+    - Ubuntu-4.4.0-5.20
+    - Ubuntu-4.4.0-6.21
+    - Ubuntu-4.4.0-7.22
+    - Ubuntu-4.4.0-8.23
+    - Ubuntu-4.4.0-9.24
+    - Ubuntu-4.4.0-10.25
+    - Ubuntu-4.4.0-11.26
+    - Ubuntu-4.4.0-12.27
+    - Ubuntu-4.4.0-12.28
+    - Ubuntu-4.4.0-13.29
+    - Ubuntu-4.4.0-14.30
+    - Ubuntu-4.4.0-15.31
+    - Ubuntu-4.4.0-16.32
+    - Ubuntu-4.4.0-17.33
+    - Ubuntu-4.4.0-18.34
+    - Ubuntu-4.4.0-19.35
+    - Ubuntu-4.4.0-20.36
+    - Ubuntu-4.4.0-21.37
+    - Ubuntu-4.4.0-22.38
+    - Ubuntu-4.4.0-22.39
+    - Ubuntu-4.4.0-22.40
+    - Ubuntu-4.4.0-23.41
+    - Ubuntu-4.4.0-24.42
+    - Ubuntu-4.4.0-24.43
+    - Ubuntu-4.4.0-25.44
+    - Ubuntu-4.4.0-26.45
+    - Ubuntu-4.4.0-27.46
+    - Ubuntu-4.4.0-28.47
+    - Ubuntu-4.4.0-29.48
+    - Ubuntu-4.4.0-30.49
+    - Ubuntu-4.4.0-31.50
+    - Ubuntu-4.6.0-9.11
+    - Ubuntu-4.6.0-10.12
+    - Ubuntu-4.6.0-11.13
+    - Ubuntu-4.6.0-12.14
+    - Ubuntu-4.8.0-10.11
+    - update-version -- fix master version prefix
+    - changelog -- fix up existing broken entries
+    - changelog -- properly format previous entry
+    - Ubuntu-4.8.0-11.12
+    - Ubuntu-4.8.0-12.13
+    - Ubuntu-4.8.0-13.14
+    - Ubuntu-4.8.0-14.15
+    - Ubuntu-4.8.0-15.16
+    - Ubuntu-4.8.0-16.17
+    - Ubuntu-4.8.0-17.19
+    - Ubuntu-4.8.0-19.21
+    - Ubuntu-4.8.0-20.22
+    - Ubuntu-4.8.0-21.23
+    - Ubuntu-4.8.0-22.24
+    - Ubuntu-4.8.0-23.25
+    - Ubuntu-4.8.0-24.26
+    - Ubuntu-4.8.0-25.27
+    - Ubuntu-4.8.0-26.28
+    - Ubuntu-4.8.0-27.29
+    - Ubuntu-4.9.0-1.2
+    - Ubuntu-4.9.0-2.3
+    - Ubuntu-4.9.0-3.4
+    - Ubuntu-4.9.0-4.5
+    - Ubuntu-4.9.0-5.6
+    - Ubuntu-4.9.0-6.7
+    - Ubuntu-4.9.0-7.8
+    - Ubuntu-4.9.0-8.9
+    - Ubuntu-4.9.0-9.10
+    - Ubuntu-4.9.0-10.11
+    - Ubuntu-4.9.0-11.12
+    - Ubuntu-4.10.0-0.1
+    - Ubuntu-4.10.0-0.2
+    - Ubuntu-4.10.0-1.3
+
+  * Miscellaneous upstream changes
+    - Initial version.
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 16 Jan 2017 08:51:23 -0700
+
 linux-signed (4.10.0-1.3) zesty; urgency=medium
 
   * Master version: 4.10.0-1.3
