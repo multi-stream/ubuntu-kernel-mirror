@@ -1,3 +1,9 @@
+linux-signed (4.10.0-7.9) zesty; urgency=medium
+
+  * Master version: 4.10.0-7.9
+
+ -- Tim Gardner <tim.gardner@canonical.com>  Mon, 06 Feb 2017 08:16:52 -0700
+
 linux-signed (4.10.0-6.8) zesty; urgency=medium
 
   * Master version: 4.10.0-6.8
