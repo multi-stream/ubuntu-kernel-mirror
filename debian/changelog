@@ -1,3 +1,9 @@
+linux-signed (4.13.0-10.11) artful; urgency=medium
+
+  * Master version: 4.13.0-10.11
+
+ -- Seth Forshee <seth.forshee@canonical.com>  Sun, 10 Sep 2017 18:14:39 -0500
+
 linux-signed (4.13.0-9.10) artful; urgency=medium
 
   * Master version: 4.13.0-9.10
